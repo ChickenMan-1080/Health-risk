@@ -10,7 +10,7 @@ Project นี้ทำขึ้นเพื่อศึกษาการทำ
  - **Markdown Editor :** Stackedit.io
 
 ## ภาพรวมการทำงาน
- 1. **เตรียมข้อมูล DataSet :** ใช้ข้อมูล dataset จาก [kaggle](https://www.kaggle.com/datasets/miadul/lifestyle-and-health-risk-prediction/data) ดาวน์โหลดไฟล์ .csv แล้วนำมาวาง บน **GitHub** ไว้ดึงข้อมูลเข้า Editor 
+ 1. **เตรียมข้อมูล DataSet :** ใช้ข้อมูล dataset จาก [kaggle](https://www.kaggle.com/datasets/miadul/lifestyle-and-health-risk-prediction/data) ดาวน์โหลดไฟล์ .csv แล้วนำมาวาง บน **GitHub** ไว้ดึงข้อมูลผ่าน URL เข้า Editor ได้โดยตรง
  
  2. **ติดตั้ง Library ที่จำเป็นต่อการสร้างโมเดล และ วิเคราะห์ข้อมูล :** ติดตั้งผ่าน command prompt
  3. **สำรวจข้อมูลโดยรวม :** สร้าง Data Frame และสำรวจข้อมูลโดยรวม เช็ค (Missing Values , Outliner) และ เลือกตัวแปร y **(ในที่นี้คือ Health Risk)**
