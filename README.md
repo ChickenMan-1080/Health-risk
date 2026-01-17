@@ -85,3 +85,7 @@ Project นี้ทำขึ้นเพื่อศึกษาการทำ
         |married|2.379730|
         |alcohol|	1.322557|
         |smoking|1.233808|
+       
+   #
+
+ 8. **บันทึก Model :** ใช้ library joblip ในการบันทึก Model ลงในไฟล์ .pkl
