@@ -1,4 +1,4 @@
-# Predict Health-risks (Machine Learning) ##อยู่ระหว่างเรียบเรียงข้อมูล
+# Predict Health-risks (Machine Learning) 
 Project นี้ทำขึ้นเพื่อศึกษาการทำงานและวิธีการสร้าง Model Machine Learning ในการทำนายความเสี่ยงต่อสุขภาพโดยใช้ ชุดข้อมูลจาก website Kaggle เพื่อ train Model 
 
 ## เครื่องมือที่ใช้
